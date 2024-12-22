@@ -4,7 +4,7 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 global.autoTyping = true
-global.autoRecord = false 
+global.autoRecord = true 
 global.autoblockmorroco = true 
 global.autokickmorroco = true 
 global.antispam = true
@@ -16,38 +16,38 @@ global.btz = 'masukkan apikey mu di sini'
 //===============SETTING MENU==================\\
 global.thumbnail = fs.readFileSync("./data/image/thumb.jpg")
 global.ig = '--'
-global.yt = 'Tan'
-global.ttowner = '@codenametan'
-global.ownername = '@Tan'
-global.owner = ['72722727272'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
-global.ownernomer = '1718272828'
-global.socialm = 'GitHub: Tanmyname'
+global.yt = '--'
+global.ttowner = '@'
+global.ownername = '@Rzy'
+global.owner = ['6285137397565'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
+global.ownernomer = '6285137397565'
+global.socialm = 'GitHub: Rzy-glitch'
 global.location = 'Indonesia' 
 //========================setting Payment=====================\\
 global.nodana = '' // KOSONG KAN JIKA TIDAK ADA
 global.nogopay = '' // KOSONG KAN JIKA TIDAK ADA 
 global.noovo = '' // KOSONG KAN JIKA TIDAK ADA
 //==================setting Payment Name===========================\\
-global.andana = 'Tan' // KOSONG KAN JIKA TIDAK ADA
-global.angopay = 'Tan' // KOSONG KAN JIKA TIDAK ADA
+global.andana = '' // KOSONG KAN JIKA TIDAK ADA
+global.angopay = '' // KOSONG KAN JIKA TIDAK ADA
 global.anovo = '' // KOSONG KAN JIKA TIDAK ADA
 //==================setting bot===========================\\
-global.botname = "Tv2"
-global.ownernumber = '1818191'
-global.botnumber = '6285198468895'
-global.ownername = '@Tan'
-global.ownerNumber = ["61827191818@s.whatsapp.net"]
+global.botname = "Shizuka-v1.3.0"
+global.ownernumber = '6285137397565'
+global.botnumber = '6285137397565'
+global.ownername = '@Rzy'
+global.ownerNumber = ["6285137397565"]
 global.ownerweb = ""
 global.websitex = ""
 global.gris = '`'
-global.wagc = "https://chat.whatsapp.com/DuolGpi5CIWDR8dYO6E1pC"
-global.saluran = "https://whatsapp.com/channel/0029VaTck0W6GcGMwiq4tQ3k"
+global.wagc = "https://watsapp.com/aiajjwjwjwjwii"
+global.saluran = "https://watsapp.com/chanel/aoiajaajajaj"
 global.themeemoji = '🪀'
-global.wm = "Tv2 | 6285198468895"
-global.botscript = 'Ngk ada wle😂' //script link
-global.packname = "Sticker By"
-global.author = "\n\n\n\n\nCreate by Tv2\nNo hape/wa : 6285198468895"
-global.creator = "6285198468895@s.whatsapp.net"
+global.wm = "Rzy | 6285137397565"
+global.botscript = 'cari di google' //script link
+global.packname = "Shizuka-v1.3.0 Watsapp botz"
+global.author = "\n\n\n\n\nCreate by Rzy\nNo hape/wa : 6285137397565"
+global.creator = "6285137397565"
 //======================== CPANEL FITUR ===========================\\
 global.domain = '-' // Isi Domain Lu jangan kasih tanda / di akhir link
 global.apikey = '-' // Isi Apikey Plta Lu
